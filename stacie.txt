@@ -2,3 +2,6 @@ Spinach
 Kale
 Broccoli
 Eggs
+Squash
+Zucchini
+Eggplant
